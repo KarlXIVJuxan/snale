@@ -1,0 +1,30 @@
+D:\проекты визуал студио\змейка\bin\Debug\net6.0\змейка.exe
+D:\проекты визуал студио\змейка\bin\Debug\net6.0\змейка.deps.json
+D:\проекты визуал студио\змейка\bin\Debug\net6.0\змейка.runtimeconfig.json
+D:\проекты визуал студио\змейка\bin\Debug\net6.0\змейка.dll
+D:\проекты визуал студио\змейка\bin\Debug\net6.0\змейка.pdb
+D:\проекты визуал студио\змейка\obj\Debug\net6.0\змейка.csproj.AssemblyReference.cache
+D:\проекты визуал студио\змейка\obj\Debug\net6.0\змейка.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты визуал студио\змейка\obj\Debug\net6.0\змейка.AssemblyInfoInputs.cache
+D:\проекты визуал студио\змейка\obj\Debug\net6.0\змейка.AssemblyInfo.cs
+D:\проекты визуал студио\змейка\obj\Debug\net6.0\змейка.csproj.CoreCompileInputs.cache
+D:\проекты визуал студио\змейка\obj\Debug\net6.0\змейка.dll
+D:\проекты визуал студио\змейка\obj\Debug\net6.0\refint\змейка.dll
+D:\проекты визуал студио\змейка\obj\Debug\net6.0\змейка.pdb
+D:\проекты визуал студио\змейка\obj\Debug\net6.0\змейка.genruntimeconfig.cache
+D:\проекты визуал студио\змейка\obj\Debug\net6.0\ref\змейка.dll
+D:\проекты визуал студио\змейка — копия\obj\Debug\net6.0\змейка.csproj.AssemblyReference.cache
+D:\проекты визуал студио\змейка — копия\obj\Debug\net6.0\змейка.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты визуал студио\змейка — копия\obj\Debug\net6.0\змейка.AssemblyInfoInputs.cache
+D:\проекты визуал студио\змейка — копия\obj\Debug\net6.0\змейка.AssemblyInfo.cs
+D:\проекты визуал студио\змейка — копия\obj\Debug\net6.0\змейка.csproj.CoreCompileInputs.cache
+D:\проекты визуал студио\змейка — копия\obj\Debug\net6.0\змейка.dll
+D:\проекты визуал студио\змейка — копия\obj\Debug\net6.0\refint\змейка.dll
+D:\проекты визуал студио\змейка — копия\obj\Debug\net6.0\змейка.pdb
+D:\проекты визуал студио\змейка — копия\bin\Debug\net6.0\змейка.exe
+D:\проекты визуал студио\змейка — копия\bin\Debug\net6.0\змейка.deps.json
+D:\проекты визуал студио\змейка — копия\bin\Debug\net6.0\змейка.runtimeconfig.json
+D:\проекты визуал студио\змейка — копия\bin\Debug\net6.0\змейка.dll
+D:\проекты визуал студио\змейка — копия\bin\Debug\net6.0\змейка.pdb
+D:\проекты визуал студио\змейка — копия\obj\Debug\net6.0\змейка.genruntimeconfig.cache
+D:\проекты визуал студио\змейка — копия\obj\Debug\net6.0\ref\змейка.dll
